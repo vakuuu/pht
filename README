@@ -2,6 +2,23 @@ PHT - perusopintojen harjoitustyö
 Joona Nissinen
 UEF TKT
 
+python 3
+
 
 Linkitetty lista
-Python 3
+
+python ohjelmointikielellä tehty linkitettylista, joka koodattu käsin. pythonin omaa listaa ei siis käytetä. Tehdään oma tietorakenne. 
+
+Ohjelmaan kuuluu:
+ - tietorakenteen luominen/listan teko
+ - tietojen lisäys, poisto ja haku
+ - tulostus näytölle ja tekstitiedostoon
+ - tietorakenteen tallentaminen ja lukeminen tiedostosta
+
+
+
+Tiedostot:
+
+README
+tyotunnit
+linkkilista.py
